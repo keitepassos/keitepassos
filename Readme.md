@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi, my name's Keite Passos 👋
 
-The best time of my day is when I'm programming with my friends :heart:
+<!--The best time of my day is when I'm programming with my friends :heart:
 
-<!--
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keitepassos&layout=compact&theme=radical" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=keitepassos&layout=compact&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keitepassos&show_icons=true&theme=radical)
+![keitepassos's GitHub stats](https://github-readme-stats.vercel.app/api?username=keitepassos&show_icons=true&theme=radical)
